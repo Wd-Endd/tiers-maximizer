@@ -1,0 +1,13 @@
+{
+    "license": "GNU-3.0",
+    "type": "module",
+    "dependencies": {
+        "path-absolute": "^1.0.1"
+    },
+    "name": "tiers-maximizer",
+    "version": "1.0.0",
+    "description": "Minecraft Vibrant Visuals tools.",
+    "main": "app.js",
+    "repository": "https://github.com/Wd-Endd/tiers-maximizer.git",
+    "author": "W.DevEndd"
+}
