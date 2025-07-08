@@ -1,9 +1,10 @@
 # tiers-maximizer
 Minecraft Vibrant Visuals tools.
 
-# Needed
+## Needed
 * [NodeJS](https://nodejs.org)
-* [NPM](https://npmjs.com) 
+* [NPM](https://npmjs.com) or [Yarn](https://yarnpkg.com)
+## Usage
 -   Clone this Repository and open terminal this cloned directory.
 -   Overwrite tiers.bin by latest file from Minecraft Assets.
 -   Folow these command.
